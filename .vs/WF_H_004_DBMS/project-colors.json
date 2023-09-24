@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dae18be3-4cda-4096-90c5-f88ba67cd8f1": {
+      "ProjectGuid": "dae18be3-4cda-4096-90c5-f88ba67cd8f1",
+      "DisplayName": "WF_H_004_DBMS",
+      "ColorIndex": 0
+    },
+    "b675fb10-c6c6-4a97-901a-efe3d02e6660": {
+      "ProjectGuid": "b675fb10-c6c6-4a97-901a-efe3d02e6660",
+      "DisplayName": "SolutionItem",
+      "ColorIndex": 1
+    },
+    "c8df7d99-a80d-456a-822e-fd24890ddf0e": {
+      "ProjectGuid": "c8df7d99-a80d-456a-822e-fd24890ddf0e",
+      "DisplayName": "Database",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "其他檔案",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

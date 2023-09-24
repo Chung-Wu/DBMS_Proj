@@ -1,0 +1,14 @@
+C:\Users\zhets\Source\Repos\WF_H_004_DBMS\WF_H_004_DBMS\bin\Debug\WF_H_004_DBMS.exe.config
+C:\Users\zhets\Source\Repos\WF_H_004_DBMS\WF_H_004_DBMS\bin\Debug\WF_H_004_DBMS.exe
+C:\Users\zhets\Source\Repos\WF_H_004_DBMS\WF_H_004_DBMS\bin\Debug\WF_H_004_DBMS.pdb
+C:\Users\zhets\Source\Repos\WF_H_004_DBMS\WF_H_004_DBMS\obj\Debug\WF_H_004_DBMS.csproj.AssemblyReference.cache
+C:\Users\zhets\Source\Repos\WF_H_004_DBMS\WF_H_004_DBMS\obj\Debug\WF_H_004_DBMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\zhets\Source\Repos\WF_H_004_DBMS\WF_H_004_DBMS\obj\Debug\WF_H_004_DBMS.Forms.SqlQueryForm.resources
+C:\Users\zhets\Source\Repos\WF_H_004_DBMS\WF_H_004_DBMS\obj\Debug\WF_H_004_DBMS.Properties.Resources.resources
+C:\Users\zhets\Source\Repos\WF_H_004_DBMS\WF_H_004_DBMS\obj\Debug\WF_H_004_DBMS.csproj.GenerateResource.cache
+C:\Users\zhets\Source\Repos\WF_H_004_DBMS\WF_H_004_DBMS\obj\Debug\WF_H_004_DBMS.csproj.CoreCompileInputs.cache
+C:\Users\zhets\Source\Repos\WF_H_004_DBMS\WF_H_004_DBMS\obj\Debug\WF_H_004_DBMS.exe
+C:\Users\zhets\Source\Repos\WF_H_004_DBMS\WF_H_004_DBMS\obj\Debug\WF_H_004_DBMS.pdb
+C:\Users\zhets\source\repos\WF_H_004_DBMS\WF_H_004_DBMS\obj\Debug\WF_H_004_DBMS.Forms.ResultForm.resources
+C:\Users\zhets\source\repos\WF_H_004_DBMS\WF_H_004_DBMS\obj\Debug\WF_H_004_DBMS.MainForm.resources
+C:\Users\zhets\source\repos\WF_H_004_DBMS\WF_H_004_DBMS\obj\Debug\WF_H_004_DBMS.Forms.ConditionForm.resources
